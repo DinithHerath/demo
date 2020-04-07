@@ -1,5 +1,13 @@
 {
-  "hello@uk.com" : "qwerty123",
-  "my@sql.com" : "demo",
-  "peepi@dc.com" : "pass"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "hello@uk.com" : "qwerty123",
+    "my@sql.com" : "demo",
+    "peepi@dc.com" : "pass"
+  }
 }
