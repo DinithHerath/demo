@@ -1,6 +1,7 @@
 {
+  "data" : {
   "username": "app@location.com",
   "password": "dev",
   "company_name": "Application Development",
-  "user_status": "Active"
+  "user_status": "Active" }
 }
