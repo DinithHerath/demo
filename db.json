@@ -1,7 +1,22 @@
 {
-  "data" : {
-  "username": "app",
-  "password": "dev",
-  "company_name": "Application Development",
-  "user_status": "Disabled" }
+  "data" : [
+    {
+      "name": "Bino - Lorry",
+      "lat": "6.76",
+      "long": "80.06",
+      "icon": "location_on"
+    },
+    {
+      "name": "Bino - Van",
+      "lat": "6.73",
+      "long": "80.04",
+      "icon": "location_on"
+    },
+    {
+      "name": "Bino - Car",
+      "lat": "6.77",
+      "long": "80.05",
+      "icon": "location_on"
+    },
+  ]
 }
