@@ -13,8 +13,8 @@
 			"id": "5ed8e53d9422405e53256597",
 			"address": "Parking Bay 91-180, Googong NSW 2620, Australia",
 			"location": {
-				"latitude": -35.427272,
-				"longitude": 149.232388
+				"latitude": -35.437272,
+				"longitude": 149.242388
 			},
 			"lastTimestamp": "2020-07-01T22:21:37.871651",
 			"filled": 69
@@ -23,8 +23,8 @@
 			"id": "5ed8c88c9422405e530c3267",
 			"address": "Parking Bay 0-90, Googong NSW 2620, Australia",
 			"location": {
-				"latitude": -35.427272,
-				"longitude": 149.230370
+				"latitude": -35.417272,
+				"longitude": 149.250370
 			},
 			"lastTimestamp": "2020-07-01T22:21:37.871660",
 			"filled": 95
