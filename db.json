@@ -1,1 +1,3 @@
+{ "data" : {
 [{"id": "5ed8e5349422405e53254f14", "address": "Parking Bay 181-243, Googong NSW 2620, Australia", "location": {"latitude": -35.427272, "longitude": 149.231384}, "lastTimestamp": "2020-07-01T22:21:37.871622", "filled": 45}, {"id": "5ed8e53d9422405e53256597", "address": "Parking Bay 91-180, Googong NSW 2620, Australia", "location": {"latitude": -35.427272, "longitude": 149.231388}, "lastTimestamp": "2020-07-01T22:21:37.871651", "filled": 69}, {"id": "5ed8c88c9422405e530c3267", "address": "Parking Bay 0-90, Googong NSW 2620, Australia", "location": {"latitude": -35.427272, "longitude": 149.231370}, "lastTimestamp": "2020-07-01T22:21:37.871660", "filled": 95}]
+}}
