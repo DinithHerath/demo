@@ -32,5 +32,29 @@
 		    },
 		    "lastTimestamp": "2020-07-01T22:21:37.871622"
 		  }
-		]
+		],
+	"ev": [
+	  {
+	    "id": "5ed8e5349422405e53254f14",
+	    "occupied": false,
+	    "address": "Pocket Park, Googong NSW 2620, Australia",
+	    "location": {
+	      "latitude": -35.418408,
+	      "longitude": 149.226257
+	    },
+	    "lastTimestamp": "2020-07-01T22:21:37.871622"
+	  }
+	],
+	"amenity": [
+	  {
+	    "id": "5ed8e5349422405e53254f14",
+	    "occupied": false,
+	    "address": "Pocket Park, Googong NSW 2620, Australia",
+	    "location": {
+	      "latitude": -35.418613, 
+	      "longitude": 149.227207
+	    },
+	    "lastTimestamp": "2020-07-01T22:21:37.871622"
+	  }
+	],
 }
