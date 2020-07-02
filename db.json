@@ -2,7 +2,7 @@
 	"data": [
 		  {
 		    "id": "5ed8e5349422405e53254f14",
-		    "name": "Pocket Park 1",
+		    "name": "Pocket Park",
 		    "address": "Pocket Park, Googong NSW 2620, Australia",
 		    "location": {
 		      "latitude": -35.418412,
@@ -12,7 +12,7 @@
 		  },
 		  {
 		    "id": "5ed8e53d9422405e53256597",
-		    "name": "Pocket Park 2",
+		    "name": "Googong Common Public Wifi",
 		    "address": "Pocket Park, Googong NSW 2620, Australia",
 		    "location": {
 		      "latitude": -35.420196,
