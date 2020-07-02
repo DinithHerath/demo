@@ -31,6 +31,16 @@
 		      "longitude": 149.226257
 		    },
 		    "lastTimestamp": "2020-07-01T22:21:37.871622"
+		  },
+				  {
+		    "id": "5ed8e53d9422405e53256597",
+		    "name": "Googong Common",
+		    "address": "Pocket Park, Googong NSW 2620, Australia",
+		    "location": {
+		      "latitude": -35.420196,
+		      "longitude": 149.221164
+		    },
+		    "lastTimestamp": "2020-07-01T22:21:37.871651"
 		  }
 		]
 }
