@@ -56,5 +56,18 @@
 	    },
 	    "lastTimestamp": "2020-07-01T22:21:37.871622"
 	  }
-	]
+	],
+	"bins": [
+	  {
+	    "id": "5ed8e5349422405e53254f14",
+	    "filled": 95,
+	    "name": "Rockley Oval - South Recycle"
+	    "address": "Pocket Park, Googong NSW 2620, Australia",
+	    "location": {
+	      "latitude": -35.418613, 
+	      "longitude": 149.227207
+	    },
+	    "lastTimestamp": "2020-07-01T22:21:37.871622"
+	  }
+	],
 }
