@@ -1,73 +1,548 @@
-{
-	"wifi": [
-		  {
-		    "id": "5ed8e5349422405e53254f14",
-		    "name": "Pocket Park",
-		    "address": "Pocket Park, Googong NSW 2620, Australia",
-		    "location": {
-		      "latitude": -35.418412,
-		      "longitude": 149.226488
-		    },
-		    "lastTimestamp": "2020-07-01T22:21:37.871622"
-		  },
-		  {
-		    "id": "5ed8e53d9422405e53256597",
-		    "name": "Googong Common",
-		    "address": "Googong Common, Googong NSW 2620, Australia",
-		    "location": {
-		      "latitude": -35.420196,
-		      "longitude": 149.221164
-		    },
-		    "lastTimestamp": "2020-07-01T22:21:37.871651"
-		  }
-		],
-	"bbq": [
-		  {
-		    "id": "5ed8e5349422405e53254f14",
-		    "occupied": false,
-		    "address": "Pocket Park, Googong NSW 2620, Australia",
-		    "location": {
-		      "latitude": -35.418408,
-		      "longitude": 149.226257
-		    },
-		    "lastTimestamp": "2020-07-01T22:21:37.871622"
-		  }
-		],
-	"ev": [
-	  {
-	    "id": "5ed8e5349422405e53254f14",
-	    "occupied": false,
-	    "address": "Pocket Park, Googong NSW 2620, Australia",
-	    "location": {
-	      "latitude": -35.418408,
-	      "longitude": 149.226257
-	    },
-	    "lastTimestamp": "2020-07-01T22:21:37.871622"
-	  }
-	],
-	"amenity": [
-	  {
-	    "id": "5ed8e5349422405e53254f14",
-	    "occupied": false,
-	    "address": "Pocket Park, Googong NSW 2620, Australia",
-	    "location": {
-	      "latitude": -35.418613, 
-	      "longitude": 149.227207
-	    },
-	    "lastTimestamp": "2020-07-01T22:21:37.871622"
-	  }
-	],
-	"bins": [
-	  {
-	    "id": "5ed8e5349422405e53254f14",
-	    "filled": 95,
-	    "name": "Rockley Oval - South Recycle",
-	    "address": "Pocket Park, Googong NSW 2620, Australia",
-	    "location": {
-	      "latitude": -35.418613, 
-	      "longitude": 149.227207
-	    },
-	    "lastTimestamp": "2020-07-01T22:21:37.871622"
-	  }
-	]
-}
+[
+    {
+        "date": "2020-11-12 00:00:00",
+        "title": "MUNNAGAI WOGGABALIRI",
+        "description": "Munnagai Woggabaliri, in the Aboriginal language of the Ngunawal people, means come play. ",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/aboriginalafl_news.ashx?h=224&w=373&la=en&hash=FC17B8A35658EB2F62DF1586FC35382A"
+    },
+    {
+        "date": "2020-11-11 00:00:00",
+        "title": "YERRADHANG NGURU",
+        "description": "Yerradhang Nguru, in the Aboriginal language of the Ngunawal people, means Gumtree Camp. ",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/aboriginaltree_news.ashx?h=224&w=373&la=en&hash=75B05AF98C92C83E12FBD1E44DEAE556"
+    },
+    {
+        "date": "2020-11-10 00:00:00",
+        "title": "BUNBURUNG THINA",
+        "description": "Bunburung Thina is the central green parklands that meander through the heart of Googong. ",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/aboriginasmalllizardtrack_news.ashx?h=224&w=373&la=en&hash=0EE6BF5EBBBB1A58407FE5703BCE9087"
+    },
+    {
+        "date": "2020-11-09 00:00:00",
+        "title": "ALWAYS WAS ALWAYS WILL BE",
+        "description": "\nThe area now known as Googong has a rich cultural history for the traditional custodians. \n",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/london_bridge_news.ashx?h=224&w=373&la=en&hash=BD51D80BA85B616EAED517554E9CE410"
+    },
+    {
+        "date": "2020-11-02 00:00:00",
+        "title": "HIA AWARD WINS",
+        "description": "Vogue Constructions took out Display Home of the Year (under $500,000) and People's Choice awards at the prestigious HIA ACT Awards.",
+        "src": "https://googong.net//-/media/peet/documents/act/googong/news-and-events-pdfs/vogue_news.ashx?h=224&w=373&la=en&hash=428FF3F9D9B4FA2F8682B3808E79A2E4"
+    },
+    {
+        "date": "2020-10-29 00:00:00",
+        "title": "GOOGONG DISPLAY VILLAGE OPENS",
+        "description": "The biggest display village in the region will open in Googong on Saturday 31 October, giving potential home buyers more choice than ever when it comes to planning for their future home.\u00a0The 19 display homes have been built by 15 different builders.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_dv_graphic_news.ashx?h=224&w=373&la=en&hash=832922CB9047C0627C5E40E4DCDF0B88"
+    },
+    {
+        "date": "2020-10-23 00:00:00",
+        "title": "RECYCLED WATER AT GOOGONG",
+        "description": "QPRC have completed extensive testing and commissioning of Googong's Integrated Water Cycle (IWC) system, and will host a community education program with residents over the coming weeks before reticulation of recycled water commences on Tuesday 1 December 2020.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/water_news.ashx?h=224&w=373&la=en&hash=4411138577B7AC381FEE854C6B5E25E9"
+    },
+    {
+        "date": "2020-09-30 00:00:00",
+        "title": "GOOGONG WINS PROPERTY COUNCIL AWARD",
+        "description": "The developers of Googong township are thrilled to announce that Googong\u00a0has taken home the ACT\u2019s top property award.\n",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/pca_award_win_news.ashx?h=224&w=373&la=en&hash=15C4FF3C2049ECE1F84CD29649262D1D"
+    },
+    {
+        "date": "2020-09-30 00:00:00",
+        "title": "CENTRAL RIDGE RELEASE",
+        "description": "Our new land release, Googong Central, offers you the simplicity and convenience of living within 200 metres of Googong's future town centre.",
+        "src": "https://googong.net//-/media/peet/documents/act/googong/parkside-and-central-ridge-releases/central_ridge_news.ashx?h=224&w=373&la=en&hash=79494D4DDA855EDFC29F74C953E4057F"
+    },
+    {
+        "date": "2020-09-30 00:00:00",
+        "title": "PARKSIDE RELEASE",
+        "description": "Our Parkside land release is enviably located on the edge of Googong Common, and Googong's future sports precinct.",
+        "src": "https://googong.net//-/media/peet/documents/act/googong/parkside-and-central-ridge-releases/parkside_news.ashx?h=224&w=373&la=en&hash=D24805DB25D2B4847D9C182C902B1801"
+    },
+    {
+        "date": "2020-08-27 00:00:00",
+        "title": "GOOGONIAN GAZETTE OUT NOW",
+        "description": "Our August issue is out now!",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/community-newsletter/googonian_gazette_august2020_news.ashx?h=224&w=373&la=en&hash=5FC0CABD68D912D6977AF3A8029BD962"
+    },
+    {
+        "date": "2020-08-13 00:00:00",
+        "title": "HOMESTEAD HILL RELEASE",
+        "description": "Homestead Hill enjoys stunning views to the Molonglo Ranges, and includes a mix of large and elevated lots.\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/homestead_hill_2_lr_news.ashx?h=224&w=373&la=en&hash=6790D52B358D46A421DB233C996668F8"
+    },
+    {
+        "date": "2020-08-05 00:00:00",
+        "title": "LOTS TO LOVE",
+        "description": "Two uniquely spacious suburban lots overlooking a pristine nature reserve.",
+        "src": "https://googong.net//-/media/peet/documents/act/googong/eoi-lots/eoi_news.ashx?h=224&w=373&la=en&hash=6A9B8859094E0FCB16F44981201617AC"
+    },
+    {
+        "date": "2020-08-05 00:00:00",
+        "title": "GOOGONG GIGS WITH LUCY SUGERMAN",
+        "description": "This month's Googong Gig's features the enormously talented singer-songwriter, Lucy Sugerman.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/googong-gigs/lucy_sugerman_news.ashx?h=224&w=373&la=en&hash=A80DFF728978DECBE60BDD4DE0DCBB28"
+    },
+    {
+        "date": "2020-07-31 00:00:00",
+        "title": "EVENTS IN 2020",
+        "description": "After careful consideration we have made the decision to cancel most of our community and public events for the remainder of 2020 due to concerns and uncertainties surrounding COVID-19.",
+        "src": "https://googong.net//-/media/peet/update-images/corporate/corporate/covid-update.ashx?h=400&w=600&la=en&hash=A61D487CB2CE82490DFF07B9CEBD4249"
+    },
+    {
+        "date": "2020-07-28 00:00:00",
+        "title": "FHB STAMP DUTY SLASHED",
+        "description": "NSW Government announced a big boost for first home buyers.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/nsw_government_logo_news.ashx?h=224&w=373&la=en&hash=9AEB371652D2E205DCD4453AB9EC4A5C"
+    },
+    {
+        "date": "2020-07-10 00:00:00",
+        "title": "ELLERTON DRIVE EXTENSION OPENED",
+        "description": "The ribbon has been cut and the finishing touches applied and now the new Ellerton Drive extension is open to traffic.",
+        "src": "https://googong.net//-/media/peet/general-images/act/jumping-creek/106401022_3355804844439716_7039434550312944271_o.ashx?h=640&w=960&la=en&hash=9702037697FC5FE9FAA8E673B83D936B"
+    },
+    {
+        "date": "2020-07-10 00:00:00",
+        "title": "MEDIUM DENSITY SITE FOR SALE $5.4m",
+        "description": "This 11,490m2\u00a0site adjacent to the $143 million Googong Town Centre, schools and playing fields is zoned R1 with a 12m height limit and represents an attractive opportunity for an accomplished builder developer.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/mu_lot_564_news.ashx?h=224&w=373&la=en&hash=2012BBE2A8B68CB22CDA8C4A8B35B95B"
+    },
+    {
+        "date": "2020-07-01 00:00:00",
+        "title": "ENTRY SCULPTURE REVEALED",
+        "description": "Googong Central continues to take shape with the installation of a sculpture standing close to 7 metres tall at the Township\u2019s new main entry. This is the beginning\u00a0of what will become Googong\u2019s main retail, wellbeing and community hub.\n\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/entry_sculpture_2_news.ashx?h=224&w=373&la=en&hash=4E504F3956B5FF52E3DB0CF289F37796"
+    },
+    {
+        "date": "2020-06-30 00:00:00",
+        "title": "ELLERTON DRIVE EXTENSION TO OPEN",
+        "description": "QPRC share a behind the scenes video of the Ellerton Drive Extension.\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/jc_ede_news.ashx?h=224&w=373&la=en&hash=8B153326305F9389E679CA6A9DF79A7F"
+    },
+    {
+        "date": "2020-06-12 00:00:00",
+        "title": "OLD COOMA ROADWORKS COMPLETE",
+        "description": "The duplication of Old Cooma Road between Edwin Land Parkway and Googong Road officially opened.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/old_cooma_rd_news.ashx?h=224&w=373&la=en&hash=E9E285BF3FC80FC341C11DC056E8FDE7"
+    },
+    {
+        "date": "2020-06-04 00:00:00",
+        "title": "GOOGONG GIGS",
+        "description": "Elton John's support act, Tate Sheridan, is playing for us this Friday!!\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_gigs_news_piano.ashx?h=224&w=373&la=en&hash=1F8B94DBC40BB5008D4815B00BBDFEE2"
+    },
+    {
+        "date": "2020-06-04 00:00:00",
+        "title": "HOME BUILDER GRANT",
+        "description": "The HomeBuilder grant will give Australian home buyers access to a $25,000 grant to go towards the cost of building a new home (including land) up to the value of $750,000.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/homebuildergrant_news.ashx?h=224&w=373&la=en&hash=18CBA8D2E8843C5608A6937971BBA5EC"
+    },
+    {
+        "date": "2020-05-25 00:00:00",
+        "title": "GOOGONIAN GAZETTE MAY 2020",
+        "description": "Grab your copy of the Googonian Gazette from the IGA Supermarket (Googong North Village Shopping Centre, Gorman Drive Googong) or our Sales Office (12 Courtney Street Googong). Or download a copy\u00a0here.\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/community-newsletter/newsletter_may_news.ashx?h=224&w=373&la=en&hash=A892A3AEEAF1287683DFD34406EB3094"
+    },
+    {
+        "date": "2020-04-23 00:00:00",
+        "title": "ROADS FROM RECYCLABLES",
+        "description": "Googong is giving new life to recycled products through the installation of six netball courts and adjacent carpark made from an asphalt mix of soft plastics, glass, toner and reclaimed road.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/recycled_roads_news.ashx?h=224&w=373&la=en&hash=3E9D4856A6F6052BE5DD7C3511B94C20"
+    },
+    {
+        "date": "2020-04-22 00:00:00",
+        "title": "GOOGONG DRIVEWAY PORTRAITS",
+        "description": "We wanted to record this significant time in our lives of self-isolation due to COVID-19, by taking professional photos of Googonians in their driveway or front porch at Googong.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/driveway_photos_news.ashx?h=224&w=373&la=en&hash=C3BF763E1749DC46FB6BD804F879911A"
+    },
+    {
+        "date": "2020-04-13 00:00:00",
+        "title": "RESIDENT REFERRAL BONUS",
+        "description": "Get a mate to go Googonian and you'll get a $1,000 referral bonus.*",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/resident_referral_news.ashx?h=224&w=373&la=en&hash=78C06D2C7CE5E4D0BC4F93A165253186"
+    },
+    {
+        "date": "2020-04-13 00:00:00",
+        "title": "ANZAC Day at Googong",
+        "description": "Live bugler performance of The Last Post at Googong, ANZAC Day 25 April 2020.\n\n",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/anzac_day_2020_news.ashx?h=224&w=373&la=en&hash=3B58D3AD1D840552D0A5FA1BD713FE06"
+    },
+    {
+        "date": "2020-04-09 00:00:00",
+        "title": "GOOGONIAN GAZETTE OUT NOW",
+        "description": "",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/newsletter_april_news.ashx?h=224&w=373&la=en&hash=467023B8FD2F2BDFC041387114963DBD"
+    },
+    {
+        "date": "2020-04-08 00:00:00",
+        "title": "EASTER 2020",
+        "description": "Our Sales Office is open this Saturday and Monday over the Easter weekend.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/easter_news.ashx?h=224&w=373&la=en&hash=4641D158DC8D160FCBA7840B0A1915D1"
+    },
+    {
+        "date": "2020-04-06 00:00:00",
+        "title": "GOOGONG AND REGION PRICE ANALYSIS",
+        "description": "The amount of money you can save by buying just across the border in Googong is truly staggering. See how Gooogong compares to lot prices in the region.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/more_land_less_mortgage_news.ashx?h=224&w=373&la=en&hash=B43FAD892D60027C48133D2B537A1EC8"
+    },
+    {
+        "date": "2020-04-05 00:00:00",
+        "title": "GOOGONG EOFY LAND SALE",
+        "description": "Our EOFY Offer means a Googonian lifestyle has never been more attractive.\n\n",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_eofy_news.ashx?h=224&w=373&la=en&hash=8580D64A03CBA61FB47CB3DA2DFC07CB"
+    },
+    {
+        "date": "2020-04-03 00:00:00",
+        "title": "THE FIELDS NEW LAND NOW SELLING",
+        "description": "Live where you play, at The Fields (East and West) in Googong.\u00a0These flat lots are now selling on a first-come first-served basis so contact us today.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/the_fields_news.ashx?h=224&w=373&la=en&hash=9AF35CBA711B5D7977FBAAC43D660251"
+    },
+    {
+        "date": "2020-04-03 00:00:00",
+        "title": "GOOGONG PUBLIC PRIMARY SCHOOL",
+        "description": "Googong's Public Primary School to open in 2022.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_public_primary_school_anncouncednews.ashx?h=224&w=373&la=en&hash=E9F3813BBCAB1DBDFCD28F0A0F8A07FB"
+    },
+    {
+        "date": "2020-04-03 00:00:00",
+        "title": "WE HAVE MOVED",
+        "description": "We have been working very hard to get our new sales office opened in our next Googong display village (the display village will open progressively over the coming weeks), and we are excited to announce that we are open from today!",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/new_sales_office.ashx?h=224&w=373&la=en&hash=1512BFE6B2EDB94D4934DCFA139443E2"
+    },
+    {
+        "date": "2020-04-01 00:00:00",
+        "title": "IWC EXPANSION WORKS",
+        "description": "You are invited to comment on the next component (Stage D) of Googong's Integrated Water Cycle project.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_wrp_news_pic.ashx?h=224&w=373&la=en&hash=E16648F9254569DDDABC9342FF6776FF"
+    },
+    {
+        "date": "2020-03-30 00:00:00",
+        "title": "PLAYGROUNDS AND DOG PARKS CLOSED",
+        "description": "In line with the latest government restrictions to slow the spread of COVID-19, we advise that all playgrounds, dog parks and outdoor gyms will be closed across all Peet/Mirvac communities.  ",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_park.ashx?h=224&w=373&la=en&hash=BF8951EC18398E30D78E13CD1C92CA4B"
+    },
+    {
+        "date": "2020-03-30 00:00:00",
+        "title": "SALES OFFICE MOVING",
+        "description": "Our Sales Office is moving to our bright new space within the next Googong Display Village.\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googong_sales_office_move.ashx?h=224&w=373&la=en&hash=6CB60EFBEC9655710507489861A74587"
+    },
+    {
+        "date": "2020-03-24 00:00:00",
+        "title": "A MESSAGE FROM GOOGONG",
+        "description": "The effect of COVID-19, and the impact it has on each of us, continues to evolve rapidly. It\u2019s times like this that community is extremely important.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/covid.ashx?h=224&w=373&la=en&hash=DEB3C0A4B3D6DE47E338C758E60A0951"
+    },
+    {
+        "date": "2020-03-16 00:00:00",
+        "title": "GOOGFEST 2020 CANCELED DUE TO COVID19",
+        "description": "Googong's free live music festival, Googfest 2020, was scheduled for Saturday 4 April 2020. This event has been cancelled to reduce community transmission of coronavirus, COVID-19.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googfest-covid19-news.ashx?h=224&w=373&la=en&hash=ABD95876A40D078F048A8A611EE4ECE2"
+    },
+    {
+        "date": "2020-02-03 00:00:00",
+        "title": "GOOGONIAN GAZETTE FEBRUARY 2020",
+        "description": "The February issue of our community newsletter, The Googonian Gazette, is out now.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/community-newsletter/googonian_gazette_news_cropped_feb20.ashx?h=224&w=373&la=en&hash=F29524DFCF80D1AC055C601AB1930D0A"
+    },
+    {
+        "date": "2020-01-24 00:00:00",
+        "title": "$20K FOR 20 NEW GOOGONIANS IN 2020",
+        "description": "Bring the new decade into focus with a $20,000 rebate on eligible lots at Googong. Conditions apply.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/2020_news.ashx?h=224&w=373&la=en&hash=D0E8A7BA4E30F5A0DC6618460C4DE390"
+    },
+    {
+        "date": "2020-01-16 00:00:00",
+        "title": "GOOGFEST 4 APRIL 2020",
+        "description": "Googfest - Googong's FREE live music festival - has been rescheduled to Saturday 4 April 2020.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googfest_4april_news.ashx?h=224&w=373&la=en&hash=9BF5450FE0330D3873B3A05CEE87B189"
+    },
+    {
+        "date": "2020-01-16 00:00:00",
+        "title": "GOOGFEST POSTPONED TO 4 APRIL",
+        "description": "Googfest 2020 has been rescheduled from Saturday 1 February 2020 to Saturday 4 April 2020",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/googfest_2020_postponed_news.ashx?h=224&w=373&la=en&hash=7F25DFE27DFC1208F8AFEFA6F176C1E8"
+    },
+    {
+        "date": "2019-11-15 00:00:00",
+        "title": "GOOGONIAN GAZETTE NOVEMBER 2019",
+        "description": "The November issue of our community newsletter, The Googonian Gazette, is out now.\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/newsletter_november_2019_news.ashx?h=224&w=373&la=en&hash=5A339EA8B93AEA1B5E03D16FF8B0B893"
+    },
+    {
+        "date": "2019-11-15 00:00:00",
+        "title": "HOMESTEAD HILL LOTS IN ESTABLISHED AREA",
+        "description": "Living at Homestead Hill, you could be enjoying a pleasant outlook over Duncan Fields to the Molonglo Ranges beyond. And with just nine lots ranging from 337m2 to 601m2 there's room enough to build a home that's just the right size for your future.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/homestead_hill_2_lr_news.ashx?h=224&w=373&la=en&hash=6790D52B358D46A421DB233C996668F8"
+    },
+    {
+        "date": "2019-11-04 00:00:00",
+        "title": "CHRISTMAS CAROLS 2019",
+        "description": "Everyone is welcome to join our non-denominational Christmas Carols event in Beltana Park.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/christmas_2019.ashx?h=224&w=373&la=en&hash=1380F6B9262184C32B13EBD823E35B8C"
+    },
+    {
+        "date": "2019-11-01 00:00:00",
+        "title": "SMART CITY THINKING AT GOOGONG",
+        "description": "Googong is set to become a showcase for technology-based urban living thanks to a $1.1million grant from the Federal Government\u2019s Smart Cities program.\u00a0The first element is already in place with the installation of a smart wind turbine and solar-powered pole - a foundation component in the new township\u2019s high-tech backbone.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/smart_cities2.ashx?h=224&w=373&la=en&hash=7825978D2F069871513F8BA3949026A2"
+    },
+    {
+        "date": "2019-10-17 00:00:00",
+        "title": "BOOGONG 2019 CANCELLED",
+        "description": "Major roadworks are continuing on Old Cooma Road to improve access into Googong. Although it is great news for our growing community, sadly, it means Boogong 2019 cannot go ahead.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/boogong_logo_news.ashx?h=224&w=373&la=en&hash=0FF8A6B45679698AB74882348202C73B"
+    },
+    {
+        "date": "2019-10-07 00:00:00",
+        "title": "RURAL FIRE SERVICE OPEN DAY 2019",
+        "description": "Googong\u2019s Rural Fire Service\u2019s Open Day is a fascinating adventure for the young and the young-at-heart, and our local crew from the Jerrabomberra",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/rfs_open_day_news.ashx?h=224&w=373&la=en&hash=B845199C55F4BA1F49B12A91114C1485"
+    },
+    {
+        "date": "2019-10-01 00:00:00",
+        "title": "RURAL FIRE SERVICE OPEN DAY",
+        "description": "Googong\u2019s Rural Fire Service\u2019s Open Day is a fascinating adventure for the young and the young-at-heart, and our local crew from the Jerrabomberra",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/rfs_open_day_news.ashx?h=224&w=373&la=en&hash=B845199C55F4BA1F49B12A91114C1485"
+    },
+    {
+        "date": "2019-09-24 00:00:00",
+        "title": "GOOGONIAN GAZETTE ISSUE 20",
+        "description": "The September issue of our community newsletter, The Googonian Gazette, is out now. Grab a printed copy or download one here.\u00a0",
+        "src": "https://googong.net//-/media/peet/documents/act/googong/communitynewsletters/googonian_gazette_20_news_image.ashx?h=224&w=373&la=en&hash=46EA3B407B28DBE408928E3FF3D2DD4D"
+    },
+    {
+        "date": "2019-09-11 00:00:00",
+        "title": "SWANN RIDGE 2 SALES RELEASE",
+        "description": "Swann Ridge 2, is your chance to build your Googonian nest just a short stroll from the future site of the town's Manuka-sized entertainment and shopping precinct, with its cafe's, restaurants, bars and boutiques. Click for more information.",
+        "src": "https://googong.net//-/media/peet/_unfiled/swann_ride_2_news.ashx?h=224&w=373&la=en&hash=0D9353D3429E6FB527D32CD48D889947"
+    },
+    {
+        "date": "2019-08-15 00:00:00",
+        "title": "NEW OWNER FOR CLUB GOOGONG",
+        "description": "We are pleased to announce that a permanent owner has been found for Club Googong. Canberra-based swim school operators, Aquatots, will take over the club from 1 October 2019.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/club_googong_from_beltana_park.ashx?h=224&w=373&la=en&hash=4162FAF20E76E2414F7F24642C5CF176"
+    },
+    {
+        "date": "2019-08-15 00:00:00",
+        "title": "GOOGONIAN GAZETTE AUGUST 2019",
+        "description": "The August issue of our community newsletter, The Googonian Gazette, is out now.\u00a0",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/newsletter_august_2019_news.ashx?h=224&w=373&la=en&hash=2DFE4088F6BEB912FFF4DA86C473B464"
+    },
+    {
+        "date": "2019-08-02 00:00:00",
+        "title": "GOOGONG NAMED TOP MASTERPLANNED DEVELOPMENT",
+        "description": "The developers of Googong township are thrilled to announce that Googong won top honours in two categories at the prestigious Urban Design Institute of Australia NSW awards.",
+        "src": "https://googong.net//-/media/peet/tile-images/act/googong/udia_win_news_pic.ashx?h=224&w=373&la=en&hash=F61CB8B5F2AC1B5DF9C0D2D229085EF1"
+    },
+    {
+        "date": "2019-08-01 00:00:00",
+        "title": "$1 MILLION DOLLARS TO SAVE RARE PINK LIZARD",
+        "description": "Buru Ngunawal Elder, Wally Bell, representing the Traditional Custodians of Googong, gave a very spiritual Welcome to Country at the launch of our $1m Fund to Save the vulnerable Pink Tailed Worm Lizard.",
+        "src": "https://googong.net//-/media/peet/tile-images/act/googong/ptwl_news_image.ashx?h=224&w=373&la=en&hash=935E22C798ADBD75F690C2CC87924B2A"
+    },
+    {
+        "date": "2019-07-16 00:00:00",
+        "title": "KITEFEST 2019",
+        "description": "KiteFest 2019 is a free day of kites and fun at Googong. Celebrate Father's Day with this utterly uplifting festival.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/kitefest_2019_news.ashx?h=224&w=373&la=en&hash=BBD62EF298B8DD200EF84998192CEFBA"
+    },
+    {
+        "date": "2019-07-05 00:00:00",
+        "title": "MEDIUM DENSITY SITE FOR SALE $3.95M",
+        "description": "This 8,238m2 site adjacent to the Googong town centre, schools and playing fields is zoned R1 with a 12m height limit and represents an attractive opportunity for an accomplished builder developer. Extended settlement is offered to June 2020, to support developer approvals and pre-sales program.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/multi_unit_news_pic.ashx?h=224&w=373&la=en&hash=C6BFD1E5F22C42C5BA0A93ED0FE6FE72"
+    },
+    {
+        "date": "2019-07-04 00:00:00",
+        "title": "GOOGONIAN GAZETTE ISSUE 18",
+        "description": "Grab a copy of our latest Gazette from Googong's IGA Supermarket or our sales office.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/community-newsletter/googoniangazettenewsvol18.ashx?h=224&w=373&la=en&hash=A8D843ABD883A5648B2FA2FF64E5F39E"
+    },
+    {
+        "date": "2019-06-07 00:00:00",
+        "title": "QUEENS BIRTHDAY LONG WEEKEND",
+        "description": "The Googong Sales and Information Center is open 10am-5pm daily, except Monday 10/6/19 of the Queen's Birthday long weekend when we will be open 1-5pm. You'll find us at 27 Beltana Avenue Googong NSW. Phone 1300 446 646.\n\nOur 18-home Display Village is open 11am-4pm all this long weekend, 65 Aprasia Avenue Googong NSW",
+        "src": "https://googong.net//-/media/peet/tile-images/act/googong/newsandeventslistings/queensbirthdaypicv2.ashx?h=224&w=373&la=en&hash=190FCE05B15CB35073B86B0F56333E24"
+    },
+    {
+        "date": "2019-04-15 00:00:00",
+        "title": "EASTER PUBLIC HOLIDAY TRADING",
+        "description": "We are closed Good Friday and Easter Sunday, and are open Easter Saturday and Monday from 11am-4pm. We are also closed on Anzac Day, Thursday 26 April.",
+        "src": "https://googong.net//-/media/peet/masonry-images/act/googong/easter_small.ashx?h=224&w=373&la=en&hash=1E1137F93D1BCAE8ED0C87431CE10C3E"
+    },
+    {
+        "date": "2019-04-01 00:00:00",
+        "title": "$31M ROADWORKS LINK GOOGONG TO REGION",
+        "description": "Major roadworks are underway on Old Cooma Road to improve access to Googong, including widening and straightening the road with two lanes in each direction. Click here for photos.",
+        "src": "https://googong.net//-/media/peet/masonry-images/act/googong/road_works_small.ashx?h=224&w=373&la=en&hash=0089309DD1F53399EFBC95975E31B213"
+    },
+    {
+        "date": "2019-03-06 00:00:00",
+        "title": "NEW LAND RELEASED AT ROCKLEY",
+        "description": "Land adjacent to the future town centre. Download a price list and release plan now.",
+        "src": "https://googong.net//-/media/peet/masonry-images/act/googong/rockley_small.ashx?h=224&w=373&la=en&hash=3DC480527B5E1DB650186D7DBF42B946"
+    },
+    {
+        "date": "2019-02-20 00:00:00",
+        "title": "TELSTRA FREE MOVIE NIGHT",
+        "description": "Telstra are delighted to host the outdoor movie session of Guardians of the Galaxy Vol. 2, at Googong on Saturday 2 March 2019. This is a FREE community event and everyone is welcome to attend.",
+        "src": "https://googong.net//-/media/peet/masonry-images/act/googong/gog_small.ashx?h=224&w=373&la=en&hash=CD43AC12F38F84F1B188066240D88FEE"
+    },
+    {
+        "date": "2019-01-23 00:00:00",
+        "title": "GOOGONG DISPLAY VILLAGE OPEN AUSTRALIA DAY LONG WEEKEND",
+        "description": "Visit the largest Display Village in the region at Googong \u2013 with 18 homes to explore and inspire you. Set in beautiful surroundings, with modern conveniences and a tight-knit community, plus it\u2019s only 18 km\u2019s from Canberra\u2019s CBD. Click here for opening times.",
+        "src": "https://googong.net//-/media/peet/masonry-images/act/googong/australia_day_small.ashx?h=224&w=373&la=en&hash=E758C8A6B60B63378EB3D05DEFF43AE5"
+    },
+    {
+        "date": "2019-01-23 00:00:00",
+        "title": "GOOGONIAN GAZETTE OUT NOW",
+        "description": "The January issue of the Googonian Gazette is out now! Jam packed with community events and more. Grab a copy online here or from Googong IGA, or from our Sales and Information Centre.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/googonian_gazette_tile.ashx?h=224&w=373&la=en&hash=6B385449C88A9E4808B43A4619EF5F67"
+    },
+    {
+        "date": "2019-01-08 00:00:00",
+        "title": "THE GOOGONIAN GAMES SCAVENGER HUNT EDITION",
+        "description": "We have a fun free project for the kids this summer holidays - it's a Scavenger Hunt at Googong, and you can win an instant prize worth $25 plus go in the draw for a family prize valued at $150! Click here for more information.",
+        "src": "https://googong.net//-/media/peet/general-images/act/googong/googong-export-games.ashx?h=224&w=373&la=en&hash=B8448E4493D1FE89F560F17B6A6013D4"
+    },
+    {
+        "date": "2018-11-26 00:00:00",
+        "title": "GOOGONIAN GAZETTE OUT NOW",
+        "description": "The December issue of our community newsletter, The Googonian Gazette, is out now!",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/gazette_card.ashx?h=224&w=373&la=en&hash=27C8F8A7471DA226969923B9269872F0"
+    },
+    {
+        "date": "2018-11-18 00:00:00",
+        "title": "EXTENDED SETTLEMENT ON OUR PARKSIDE LOTS",
+        "description": "If your preference is looking over the green landscape of Googong Common and the meandering chain of ponds that is Montgomery Creek, or looking over the bushland of the Googong Foreshores conservation area from the elevated lots at Greenside -- then we have a limited number of parkside lots available with extended settlement for your consideration.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/montomert_card.ashx?h=224&w=373&la=en&hash=8266213ADC04B171F2022F64278E8C72"
+    },
+    {
+        "date": "2018-11-13 00:00:00",
+        "title": "GOOGONG CHRISTMAS CAROLS",
+        "description": "The developers of Googong township would like to extend a warm welcome to one and all to join our annual Christmas Carols event.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/christmas_card.ashx?h=224&w=373&la=en&hash=B8D6684D5BA37CDB3E98B0E388A5A163"
+    },
+    {
+        "date": "2018-11-07 00:00:00",
+        "title": "NEW TERRACE HOMES OUT NOW FROM $330000",
+        "description": "Stylish terraces with no Body Corporate.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/terraces_card.ashx?h=224&w=373&la=en&hash=4A541C1698209EE7D4704EF42EB8DE18"
+    },
+    {
+        "date": "2018-10-18 00:00:00",
+        "title": "BOOGONG HALLOWEEN FUN AT GOOGONG",
+        "description": "Boogong is back! And this year's twisted circus theme is set to be the biggest and scariest yet!",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/boogong_card.ashx?h=224&w=373&la=en&hash=338ABAD5BC0103DE7A9540461294D2B5"
+    },
+    {
+        "date": "2018-10-08 00:00:00",
+        "title": "GOOGONIAN GAZETTE OUT",
+        "description": "The latest issue of the Googonian Gazette is out now. Collect a copy from our sales and information centre or download a copy here.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/goog-gazette.ashx?h=224&w=373&la=en&hash=9C79E92F21754BC57AC5EF78EE327CDA"
+    },
+    {
+        "date": "2018-10-08 00:00:00",
+        "title": "IGA SUPERMARKET OPENS AT GOOGONG",
+        "description": "The Cannons IGA supermarket opened its doors today at Googong.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/iga_card.ashx?h=224&w=373&la=en&hash=C3D3E92F5A47E4D1D8A3594FEFB1AA57"
+    },
+    {
+        "date": "2018-10-02 00:00:00",
+        "title": "GUIDED TOUR OF THE PINK TAILED WORM LIZARD CONSERVATION AREA",
+        "description": "Join Ecologist Rob Speirs and Googong Landcare on a guided tour of this spectacular conservation area at Googong and meet the a Pink-tailed Worm-lizard!",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/ftwl-feature.ashx?h=224&w=373&la=en&hash=A0D278B0F792D7336881C1860BDC67D8"
+    },
+    {
+        "date": "2018-09-28 00:00:00",
+        "title": "GOOGONG LANDCARE WORKING BEE AND BBQ",
+        "description": "Get outdoors in this lovely spring weather, make a difference in your local environment and connect with your community!",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/landscape-feature.ashx?h=224&w=373&la=en&hash=EDC738605BF6ED992BC703E172CC7367"
+    },
+    {
+        "date": "2018-09-25 00:00:00",
+        "title": "SWANN RIDGE NOW SELLING",
+        "description": "Googong Central's second release, Swann Ridge, is your chance to build your Googonian nest\njust a short stroll from the future site of the town's Manuka-sized entertainment\nand shopping precinct, with it's cafe's restaurants, bars and boutiques,\nas well as beautiful Bunyip Park and lake.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/rockleypic1/swann20ridge20image/swann20ridge20image.ashx?h=224&w=373&la=en&hash=A26F2256F2A67CADCA27AAC3667EF9F5"
+    },
+    {
+        "date": "2018-08-14 00:00:00",
+        "title": "GOOGONG NEWSLETTER OUT NOW!",
+        "description": "The Googonian Gazette August issue is out now. Click here for a copy.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/newsletter.ashx?h=445&w=740&la=en&hash=D81D5900FA9654FDC62CEB87C4FE6104"
+    },
+    {
+        "date": "2018-06-19 00:00:00",
+        "title": "GOOGONG COMMUNITY WELCOMES ITS NEW PUBLIC PRIMARY SCHOOL",
+        "description": "More than 1000 families live in the fast-growing Googong township and local mum Skye Cabrera is one of many who will be lining up to enrol her child at the new public school.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/mr_school.ashx?h=445&w=740&la=en&hash=68440514FFBFB1EDC289B316B1611B3B"
+    },
+    {
+        "date": "2018-06-16 00:00:00",
+        "title": "PUBLIC PRIMARY SCHOOL ANNOUNCED",
+        "description": "The Googong community welcomed the NSW Government\u2019s Budget announcement today to build the community\u2019s first public school.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/school-announcement.ashx?h=445&w=740&la=en&hash=B058AA0EE6A5F99A5DEB75613961A1E8"
+    },
+    {
+        "date": "2018-02-15 00:00:00",
+        "title": "$143 MILLION TOWN CENTRE UNVEILED",
+        "description": "We have unveiled plans for our biggest expansion at Googong yet \u2013 a $143 million town centre that will bring 1800 new dwellings, 4500 residents and hundreds of jobs to the ACT region.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/towncentre.ashx?h=445&w=740&la=en&hash=BA42D6AE084D0B23AE6A8A662D0D6CC5"
+    },
+    {
+        "date": "2017-11-16 00:00:00",
+        "title": "BARKLEY PARK DOG PARK OPENS SATURDAY 18/11/17",
+        "description": "Come and enjoy a doggy day out in Googong's new Dog Park on Fowlie Terrace, Googong. Click for more.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/dogpark.ashx?h=445&w=740&la=en&hash=9F6DC457298E0E46AAE9673FAEE0AB01"
+    },
+    {
+        "date": "2017-07-03 00:00:00",
+        "title": "1,500 LOTS SOLD IN THE GOOGONG TOWNSHIP!",
+        "description": "Wow we're so excited to see this township growing. It's nice some times to take stock...",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/1500lotssoldatgoogong.ashx?h=445&w=740&la=en&hash=E3A9782AD16CC340C7D443D96F4F6794"
+    },
+    {
+        "date": "2017-06-12 00:00:00",
+        "title": "ARCHAEOLOGICAL SITE VISIT OF GOOGONG'S FIRST SCHOOL",
+        "description": "The public are invited to attend an archaeological dig site of Googong's first school (c.1880's). Places are strictly limited and bookings and conditions apply.\n",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/screenshot20170613at25746pm.ashx?h=445&w=740&la=en&hash=7D53895928B74BB15CB307D56D3C3652"
+    },
+    {
+        "date": "2016-05-26 00:00:00",
+        "title": "ALL ABILITIES PARK OPENS AT GOOGONG",
+        "description": "Googong\u2019s first all-abilities playground catering for children with disability has now opened.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/lovegrove_18-copy.ashx?h=445&w=740&la=en&hash=50D526A184F26FAE4FEF135AEDA601C3"
+    },
+    {
+        "date": "2015-06-14 00:00:00",
+        "title": "ADAM HOBILL SEMINAR, NAIL IT! SATURDAY 20 JUNE",
+        "description": "Thinking of building or renovating, but worried about the process? Then this FREE seminar by multi-award winning building designer, Adam Hobill, is a must for you! Click for more information.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/screenshot20150615at51420pm.ashx?h=445&w=740&la=en&hash=0E35E95B60FEE41596424AEA139A9497"
+    },
+    {
+        "date": "2014-12-22 00:00:00",
+        "title": "2015 TO GO OFF WITH A BANG!",
+        "description": "2015 will start with a BANG as we host our first Googfest event on Saturday 7 February 2015. This FREE concert will feature X-Factor winner, Dami Im live in concert, as well as X-Factor contender Mary Ann Van Der Horst and local bands Big Boss Groove and Lavers.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/screenshot20141222at115001am.ashx?h=445&w=740&la=en&hash=7DF6B6637B2D985E0E88B0431CB999C1"
+    },
+    {
+        "date": "2014-08-24 00:00:00",
+        "title": "A BIG THANK YOU FROM JOHN",
+        "description": "Many of you would know part owner of Googong\u2019s Yellow Belly Caf\u00e9, John Osmialowski, and his family suffered a great tragedy last week when their home in Jerrabomberra burnt down.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/1408435826646jpg620x349.ashx?h=445&w=740&la=en&hash=9176D40347242EBADA6E48F57D9037C9"
+    },
+    {
+        "date": "2014-06-25 00:00:00",
+        "title": "BABIES TO SLEEP SOUNDER AT GOOGONG",
+        "description": "An initiative by SIDS and Kids, McDonald Jones Homes and Googong Township Pty Limited is ensuring new babies and young children sleep safer in their beds.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/sids-and-kids.ashx?h=445&w=740&la=en&hash=2FDF3AC856CC20C9C394D8B5A6DF182C"
+    },
+    {
+        "date": "2013-07-30 00:00:00",
+        "title": "$90 MILLION WATER RECYCLING SYSTEM LAUNCHED AT GOOGONG",
+        "description": "Water recycling technology worth more than $90 million was launched at Googong earlier today.",
+        "src": "https://googong.net//-/media/peet/update-images/act/googong/update-feature-images/20130731150923copy.ashx?h=445&w=740&la=en&hash=5191FD7E220A17808B17CB271B9BB827"
+    }
+]
