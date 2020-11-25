@@ -1,32 +1,25 @@
-[
-    {
-        "date": "2020-11-12 00:00:00",
-        "title": "MUNNAGAI WOGGABALIRI",
-        "description": "Munnagai Woggabaliri, in the Aboriginal language of the Ngunawal people, means come play. ",
-        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/aboriginalafl_news.ashx?h=224&w=373&la=en&hash=FC17B8A35658EB2F62DF1586FC35382A"
-    },
-    {
-        "date": "2020-11-11 00:00:00",
-        "title": "YERRADHANG NGURU",
-        "description": "Yerradhang Nguru, in the Aboriginal language of the Ngunawal people, means Gumtree Camp. ",
-        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/aboriginaltree_news.ashx?h=224&w=373&la=en&hash=75B05AF98C92C83E12FBD1E44DEAE556"
-    },
-    {
-        "date": "2020-11-10 00:00:00",
-        "title": "BUNBURUNG THINA",
-        "description": "Bunburung Thina is the central green parklands that meander through the heart of Googong. ",
-        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/aboriginasmalllizardtrack_news.ashx?h=224&w=373&la=en&hash=0EE6BF5EBBBB1A58407FE5703BCE9087"
-    },
-    {
-        "date": "2020-11-09 00:00:00",
-        "title": "ALWAYS WAS ALWAYS WILL BE",
-        "description": "\nThe area now known as Googong has a rich cultural history for the traditional custodians. \n",
-        "src": "https://googong.net//-/media/peet/general-images/act/googong/news_and_events/london_bridge_news.ashx?h=224&w=373&la=en&hash=BD51D80BA85B616EAED517554E9CE410"
-    },
-    {
-        "date": "2020-11-02 00:00:00",
-        "title": "HIA AWARD WINS",
-        "description": "Vogue Constructions took out Display Home of the Year (under $500,000) and People's Choice awards at the prestigious HIA ACT Awards.",
-        "src": "https://googong.net//-/media/peet/documents/act/googong/news-and-events-pdfs/vogue_news.ashx?h=224&w=373&la=en&hash=428FF3F9D9B4FA2F8682B3808E79A2E4"
+{
+    "groups": [
+        "Group 1",
+        "Group 3",
+        "Group 2"
+    ],
+    "archive": false,
+    "_id": "5fb37cad35db1328ec37deff",
+    "password": "string",
+    "name": "Pissu Kanna",
+    "email": "kanna@kapukapu.com",
+    "id": "69",
+    "tp": "0112729729",
+    "role": "CEO",
+    "createdAt": "2020-11-17T07:33:01.321Z",
+    "updatedAt": "2020-11-23T07:45:31.147Z",
+    "__v": 0,
+    "fcmToken": "string",
+    "profileImage": {
+        "name": "PK",
+        "path": "/5fb37cad35db1328ec37deff/profile_image",
+        "type": "image",
+        "url": "https://lh3.googleusercontent.com/8OySo6hYzgfo67csbZccrf6aTyKIKhqr7qXbXzzI3w-HwmrqetdCtSskpfpM6zoOJyKPmuhpW7bk8ncnzlcyebeP=w982-h1472-p-k-no-v1-nu-pa"
     }
-]
+}
